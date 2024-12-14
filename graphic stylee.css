@@ -1,0 +1,293 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 0px;
+    background-image: url(./graphic\ background.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.ik {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    width: fit-content;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+
+.ik:hover {
+    background-color: blue;
+    font-size: 20px;
+}
+
+
+.a1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+}
+
+
+.a2 {
+    width: 550px;
+    height: 380px;
+}
+
+
+.a3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+.a4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+}
+
+
+.a5 {
+    width: 130px;
+    height: 160px;
+    border-radius: 30px;
+    margin-left: -850px;
+    margin-top: 100px;
+}
+
+
+.a6 {
+    width: 160px;
+    height: 160px;
+    border-radius: 30px;
+    margin-top: -130px;
+    margin-left: -350px;
+}
+
+
+.a7 {
+    width: 160px;
+    height: 160px;
+    border-radius: 30px;
+    margin-left: 200px;
+    margin-top: -130px;
+}
+
+
+
+.a8 {
+    width: 160px;
+    height: 160px;
+    border-radius: 30px;
+    margin-left: 800px;
+    margin-top: -130px;
+}
+
+
+.a11 {
+    background-color: rgba(255, 255, 255, 0);
+    outline: auto;
+    outline-color: white;
+    width: 260px;
+    height: 30px;
+    text-align: center;
+    margin-top: 230px;
+}
+
+
+.a12 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: -50px;
+}
+
+
+
+.a13 {
+    background-color: rgba(255, 255, 255, 0.747);
+    width: 250px;
+    height: 450px;
+    border-radius: 50px;
+}
+
+
+.a14 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    position: absolute;
+    margin-top: -470px;
+    margin-left: -55px;
+}
+
+
+.a15 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    margin-top: -410px;
+    font-size: 25px;
+}
+
+
+.a16 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+.a17 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 25px;
+    margin-top: -20px;
+}
+
+
+.a18 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: large;
+}
+
+
+.a19 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 25px;
+}
+
+
+.a21{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 50px;
+}
+
+
+
+select {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    width:fit-content;
+    height: 50px;
+    border-radius: 20px;
+}
+
+
+select option {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+
+.a22{
+    background-color: rgba(255, 255, 255, 0.342);
+    width: 350px;
+    height: 900px;
+    border-radius: 50px;
+    outline: auto;
+    outline-color: black;
+}
+
+
+.a23{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+    margin-top: -910px;
+}
+
+
+.a24{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: white;
+}
+
+
+div ul{
+    position: absolute;
+    margin-left: 510px;
+    margin-top: -15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: left;
+    color: white;
+    list-style-type: armenian;
+}
+
+
+.a25{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 25px;
+    margin-top: 280px;
+}
+
+
+.a26{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 290px;
+    font-size: 50px;
+}
+
+
+.a27{
+    width: 650px;
+    height: 350px;
+    margin-top: 150px;
+}
+
+
+
+.a28{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    color: blue;
+    outline: auto;
+    outline-color: white;
+    width: fit-content;
+    margin-top: 50px;
+}
+
+
+
+footer {
+    background-color: rgba(0, 0, 243, 0.329);
+    width: 100%;
+    height: 950px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.insta {
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+
+.twi {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+
+.fac {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 70px;
+}

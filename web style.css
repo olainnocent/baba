@@ -1,0 +1,376 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 0px;
+    background-image: url(./webpage\ background.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.ik {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    width: fit-content;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: -10px;
+    font-size: 15px;
+}
+
+
+.ik:hover {
+    background-color: blue;
+    font-size: 20px;
+}
+
+
+.asd {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+.lkl {
+    width: 550px;
+    height: 300px;
+}
+
+
+.klk {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+
+
+.vbv {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jh {
+    width: 160px;
+    height: 180px;
+    border-radius: 30px;
+}
+
+.hg {
+    width: 160px;
+    height: 180px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: -185px;
+    margin-left: 290px;
+}
+
+
+.fg {
+    width: 160px;
+    height: 180px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: -185px;
+    margin-left: 890px;
+}
+
+
+.sw {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    outline: auto;
+    outline-color: white;
+    width: 250px;
+}
+
+
+.coco {
+    background-color: rgba(255, 255, 255, 0.692);
+    width: 250px;
+    height: 400px;
+    border-radius: 30px;
+}
+
+.hb {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 590px;
+    color: rgba(14, 14, 97, 0.63);
+}
+
+
+.wqs {
+    background-color: white;
+    color: rgb(39, 39, 143);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 150px;
+    height: 26px;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: -75px;
+}
+
+
+.fd {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+}
+
+
+select {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+
+select option {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+
+.p1 {
+    background-color: rgba(255, 255, 255, 0.158);
+    width: 350px;
+    height: 1000px;
+    outline: auto;
+    outline-color: black;
+    border-radius: 20px;
+}
+
+
+.p2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-top: -1000px;
+    color: white;
+}
+
+
+.p3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: -30px;
+    color: white;
+}
+
+
+.o1 {
+    background-color: rgba(255, 255, 255, 0.582);
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-top: 60px;
+    outline: auto;
+    outline-color: blue;
+}
+
+
+.o2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: -68px;
+}
+
+
+.pp2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+.po1 {
+    background-color: rgba(255, 255, 255, 0.582);
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-top: 50px;
+    outline: auto;
+    outline-color: blue;
+}
+
+
+.po2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: -68px;
+}
+
+
+.po3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+.p11 {
+    background-color: rgba(255, 255, 255, 0.582);
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-top: 50px;
+    outline: auto;
+    outline-color: blue;
+}
+
+
+.p12 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: -68px;
+}
+
+
+.p13 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+.w1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 70px;
+}
+
+
+.q1q {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+}
+
+
+.w12 {
+    background-color: rgba(255, 255, 255, 0.473);
+    width: 450px;
+    height: 800px;
+    outline: auto;
+    outline-color: black;
+    outline-width: 10px;
+    border-radius: 40px;
+}
+
+
+.ss1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-top: -750px;
+    color: white;
+}
+
+
+
+.ss2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+}
+
+
+
+.ss3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+}
+
+
+
+.plp {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+}
+
+
+
+.lpl {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+}
+
+
+.kok {
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    margin-left: -300px;
+    margin-top: 150px;
+}
+
+
+.maq {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: blue;
+    background-color: rgba(255, 255, 255, 0);
+    width: fit-content;
+    margin-top: 480px;
+    outline: auto;
+    outline-color: white;
+}
+
+
+footer {
+    background-color: rgba(0, 0, 243, 0.329);
+    width: 100%;
+    height: 950px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.insta {
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+
+.twi {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+
+.fac {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+
+.hr {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    width: fit-content;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}

@@ -1,0 +1,322 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 0px;
+    background-image: url(./comp\ eng\ background.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.ik {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    width: fit-content;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: -10px;
+    font-size: 15px;
+}
+
+
+.ik:hover {
+    background-color: blue;
+    font-size: 20px;
+}
+
+
+.ppp {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+.uio {
+    width: 530px;
+    height: 320px;
+}
+
+
+.nh {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+}
+
+
+.vb {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+
+}
+
+
+.bvc {
+    width: 150px;
+    height: 180px;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 280px;
+}
+
+
+.xz {
+    width: 150px;
+    height: 180px;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 640px;
+}
+
+
+
+.zx {
+    width: 150px;
+    height: 180px;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 980px;
+}
+
+
+.po1 {
+    background-color: rgba(255, 255, 255, 0);
+    outline: auto;
+    outline-color: white;
+    width: 260px;
+    height: 30px;
+    text-align: center;
+    margin-top: 230px;
+}
+
+
+.po2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: -50px;
+}
+
+
+
+.po33 {
+    background-color: rgba(255, 255, 255, 0.747);
+    width: 250px;
+    height: 450px;
+    border-radius: 50px;
+}
+
+
+.lm1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    position: absolute;
+    margin-top: -470px;
+    margin-left: -55px;
+}
+
+
+.opo1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    margin-top: -410px;
+    font-size: 25px;
+}
+
+
+.xzx {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+.iu1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 25px;
+    margin-top: -20px;
+}
+
+
+.we1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: large;
+}
+
+
+.gh1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 25px;
+}
+
+
+.yt {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 50px;
+}
+
+select {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    width: 360px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+
+select option {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+
+.qw1{
+    background-color: rgba(255, 255, 255, 0.342);
+    width: 350px;
+    height: 900px;
+    border-radius: 50px;
+    outline: auto;
+    outline-color: black;
+}
+
+
+.as2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+    margin-top: -910px;
+}
+
+
+.uh1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: white;
+}
+
+
+.a1a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color: white;
+    outline: auto;
+    outline-color: blue;
+    width: 50px;
+    height: 8opx;
+    border-radius: 30px;
+}
+
+
+
+.a11a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: white;
+}
+
+
+
+.a2a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color: white;
+    outline: auto;
+    outline-color: blue;
+    width: 50px;
+    height: 8opx;
+    border-radius: 30px;
+}
+
+
+.a22a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: white;
+}
+
+
+
+.a3a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color: white;
+    outline: auto;
+    outline-color: blue;
+    width: 50px;
+    height: 8opx;
+    border-radius: 30px;
+}
+
+
+
+.a33a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: white;
+}
+
+
+.maq21{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.comp1{
+    width: 650px;
+    height: 350px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: -450px;
+}
+
+
+.eng1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: blue;
+    outline: auto;
+    outline-color: white;
+    width: fit-content;
+    margin-top: 400px;
+}
+
+
+footer {
+    background-color: rgba(0, 0, 243, 0.329);
+    width: 100%;
+    height: 950px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.insta {
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+
+.twi {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+
+.fac {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
